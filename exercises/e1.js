@@ -5,7 +5,8 @@ import { data } from "../data/data";
 // Return example: ['name1', 'name2', ... , 'nameN']
 
 export function getPlanetNames(data) {
-  
+   const planetObj = data.planets;
+   
 }
 
 
