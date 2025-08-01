@@ -9,15 +9,13 @@
  */
 
 export function minBy(array, cb) {
-  // Your code goes here...
-
+  
 }
 
 export function maxBy(array, cb) {
-  // Your code goes here...
-
+ 
+  
 }
-
 
 // === TEST YOURSELF ===
 // Once you're finished run the test with "npm run test-17"
